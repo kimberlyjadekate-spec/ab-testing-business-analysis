@@ -208,3 +208,14 @@ The estimated treatment effect is negative, while the 95% confidence interval cr
 A statistically valid experiment does not necessarily produce a winning treatment.
 
 In this test, the new landing page showed a small negative observed effect and no statistically significant improvement. The evidence therefore supports retaining the existing page while developing and testing stronger design hypotheses.
+
+## Data Source
+
+This project uses the A/B testing dataset originally provided for the Udacity
+"Analyze A/B Test Results" project.
+
+Raw data files are not redistributed in this repository. To reproduce the
+analysis, obtain the original dataset and place the files in the local `data/`
+directory.
+
+**Original dataset:** Udacity – Analyze A/B Test Results
