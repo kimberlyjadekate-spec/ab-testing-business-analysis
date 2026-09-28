@@ -1,0 +1,19 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# PyCharm / IntelliJ
+.idea/
+
+# Temporary files
+*.log
+
+# Raw datasets - kept locally only
+data/*.xlsx
